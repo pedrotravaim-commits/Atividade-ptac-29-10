@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; }
+.container { max-width: 600px; margin: 40px auto; padding: 0 16px; }
+.lista { list-style: none; padding: 0; }
+.lista li { background: #fff; padding: 12px 16px; margin-bottom: 8px; border-radius: 6px; }
+.detalhe { font-size: 0.85rem; color: #555; margin-top: 4px; }
+.erro { color: #b00020; }
